@@ -13,4 +13,4 @@ hello attmj! hello git!
 hello attmj! hello git!
 hello attmj! hello git!
 hello attmj! hello git! master test
-hello attmj! hello git!
+hello attmj! hello git! hot-fix test
